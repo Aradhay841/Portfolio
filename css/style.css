@@ -18,7 +18,7 @@ float: left ;
     padding-left: 25% ;
     width: 50% ;
 }
-a.primary-button {
+.primary-button {
     color: white ;
     background-color:#8845f4 ;
     border-radius: 20px ;
